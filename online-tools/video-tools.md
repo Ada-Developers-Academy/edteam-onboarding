@@ -16,4 +16,4 @@ Use of recording in the public zoom rooms, for example [auditorium](https://audi
 
 ## Camtasia
 
-This is an app Chris owns and uses for recordings.  It has built-in background noise removal and provides tools for video editing, transitions, annotations, entering captions etc.  It can export to mp4 which can then be uploaded to Panopto.
+This is an app Chris owns a copy of and uses for recordings.  It has built-in background noise removal and provides tools for video editing, transitions, annotations, entering captions etc.  It can export to mp4 which can then be uploaded to Panopto.
