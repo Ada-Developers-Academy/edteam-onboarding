@@ -12,6 +12,12 @@ We use a variety of Google Calendars at Ada.  These calendars are used to post o
 * [C16 Digital](https://calendar.google.com/calendar/u/0?cid=Y181ZjQ2M2IxbTFhMHVtcmZtZnZqYThkbmFvOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [Thursdays @ Ada](https://calendar.google.com/calendar/u/0?cid=YWRhZGV2ZWxvcGVyc2FjYWRlbXkub3JnX3IwNmthYXZ1MGw1bWFvZmRsYTN2NGFwbWlrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) - If you need access contact [Chris](mailto:chris@adadev.org) or [Bethany](bethany@adadev.org).
 
+## Calendly
+
+Students schedule 1-1 and other meetings with instructors on their Google Calendars with [Calendly](https://calendly.com/).  
+
+Create a free account and set up a event type.  Then add the provided link to learn so students can schedule meetings.  
+
 ## Calendar By Topic
 
 We also maintain a schedule of topics of instruction for the cohort in [Airtable](https://airtable.com/tblSmysEfKv1n8iLt/viwBMwzIz0yZYi1FG?blocks=hide).
