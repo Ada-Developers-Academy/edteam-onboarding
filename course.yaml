@@ -1,0 +1,10 @@
+---
+  :Course:
+  - :Section: "Onboarding Basics"
+    :Repos:
+    - :Url: https://github.com/Ada-Developers-Academy/edteam-onboarding
+  - :Section: "Learning Learn"
+    :Repos:
+    - :Url: https://github.com/gSchool/ada-learn-workshop
+
+
