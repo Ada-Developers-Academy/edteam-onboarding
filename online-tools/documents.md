@@ -10,3 +10,7 @@
 ## Meeting Notes
 
 - [C15 Wednesday morning Education Team Meeting Notes](https://docs.google.com/document/d/1RRTslm5crJd9S1QIXFEkapC_JQ-gSE5tieBHuBR-oLU/edit?usp=sharing)
+
+## Education Team Policy
+
+- [Education Team Policies](https://drive.google.com/drive/u/1/folders/1T75m8xseKqDsaooagQH-zPK3cakRbBTt)
