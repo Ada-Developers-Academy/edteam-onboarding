@@ -32,6 +32,10 @@ Make sure another member of the education team adds you to the following groups:
 - [Current Cohort Project Repo](https://github.com/Ada-C16)
 - [Internship Cohort Repo](https://github.com/ada-c16)
 
+## Learn
+
+The App you are in now!  We use Learn for curriculumn delivery and automatic assignment grading and feedback.
+
 ## Panopto
 
 We use [Panopto](https://adaacademy.hosted.panopto.com/Panopto/Pages/Home.aspx) to record screencasts and lessons for students.  Students can then stream the videos from any web-capable device.
@@ -52,4 +56,3 @@ If you are missing any of the following Airtables message the team and we can ge
 
 - [Cohort Calendar By Topic](https://airtable.com/tbl30CW9EPobvMXRw/viw9IVtTBo9jxE9yd)
 - [C16 Classroom Support](https://airtable.com/tblJ44pwutYNR9ICN/viwwmPEFvyRF39JiT?blocks=hide)
-
