@@ -16,3 +16,8 @@ Roundtable sessions meet regularly multiple times each week as small groups of s
 
 Periodically instructors hold optional review sessions, typically in the evenings or afternoons.  These can involve livecoding examples, Google slides, and Q&A.
 
+Review sessions are often scheduled ad-hoc by instructors on an as-needed basis.
+
+## Office Hours
+
+Instructor schedule regular office hours in the calendar to provide support and Q&A with students.  Office hours usually provide support and debugging for students on projects.
