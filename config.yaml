@@ -38,3 +38,38 @@ Standards:
         Type: Lesson
         UID: 835259f0-2fee-49e7-83da-3900c01d74ff
         Path: /educational-practices/capstone.md
+  -
+    Title: Online Tools
+    Description: Tools the educational team uses
+    UID: 4ea42d44-b2f9-4841-9c83-ec360f40e24e
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 49a825fd-a20f-407c-bc47-b6244d005af4
+        Path: /online-tools/online-tools-list.md
+      -
+        Type: Lesson
+        UID: c02557c2-3c6a-436d-8d60-f6c389c79c5f
+        Path: /online-tools/documents.md
+      -
+        Type: Lesson
+        UID: 2741d749-440b-4c6f-91b8-f863dac083f9
+        Path: /online-tools/github.md
+      -
+        Type: Lesson
+        UID: 20762e80-52bf-4df7-a171-6cbc11a9623d
+        Path: /online-tools/hr-tools.md
+      -
+        Type: Lesson
+        UID: 9ed14e17-681d-456b-a1d5-74e08de489e2
+        Path: /online-tools/slack.md
+      -
+        Type: Lesson
+        UID: 2e770133-af99-4c6f-9755-5d9de261173d
+        Path: /online-tools/video-tools.md
+      -
+        Type: Lesson
+        UID: 7d0a506e-4860-42dd-85b6-8dd39f9f42dc
+        Path: /online-tools/zoom.md        
