@@ -11,6 +11,14 @@ Standards:
         Type: Lesson
         UID: 27fecb60-d90f-496a-bcc7-f9349719a7a1
         Path: /setup-checklist/accounts.md
+      -
+        Type: Lesson
+        UID: dbe01a3a-a16b-4c0b-b611-1b8655c89739
+        Path: /setup-checklist/calendars.md
+      -
+        Type: Lesson
+        UID: 6ffb0836-ef87-467c-9e84-7d2fed99fa5f
+        Path: /setup-checklist/gdrive.md
   -
     Title: Educational Practices
     Description: Regular practices as part of the ed-team
