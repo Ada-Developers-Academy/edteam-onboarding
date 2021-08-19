@@ -23,7 +23,7 @@ You should have a github account, with your `@adadevelopersacademy.org` account.
 
 Make sure another member of the education team adds you to the following groups:
 
-- [AdaGold]https://github.com/orgs/AdaGold)
+- [AdaGold](https://github.com/orgs/AdaGold)
 - [Ada Developers Academy](https://github.com/Ada-Developers-Academy/)
     - Teams
         - ada-instructors (for instructors)
