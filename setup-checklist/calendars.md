@@ -10,7 +10,7 @@ We use a variety of Google Calendars at Ada.  These calendars are used to post o
 * [ADA TA Calendar](https://calendar.google.com/calendar/u/0?cid=Y19zYnYwbTZqNGZ0Mmt2aTN1dHBlbWpoMGVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [C16 Seattle](https://calendar.google.com/calendar/u/1?cid=Y19rZ3VxbDZ1MXVqcjB0Z3I4c2Q0b2I1Nmc4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - **If** you are a Seattle staff member.
 * [C16 Digital](https://calendar.google.com/calendar/u/0?cid=Y181ZjQ2M2IxbTFhMHVtcmZtZnZqYThkbmFvOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [Thursdays @ Ada](https://calendar.google.com/calendar/u/0?cid=YWRhZGV2ZWxvcGVyc2FjYWRlbXkub3JnX3IwNmthYXZ1MGw1bWFvZmRsYTN2NGFwbWlrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) - If you need access contact [Chris](mailto:chris@adadev.org) or [Bethany](bethany@adadev.org).
+* [Thursdays @ Ada](https://calendar.google.com/calendar/u/0?cid=YWRhZGV2ZWxvcGVyc2FjYWRlbXkub3JnX3IwNmthYXZ1MGw1bWFvZmRsYTN2NGFwbWlrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) - If you need access contact [Chris](mailto:chris@adadev.org) or [Bethany](mailto:bethany@adadev.org).
 
 ## Calendly
 
