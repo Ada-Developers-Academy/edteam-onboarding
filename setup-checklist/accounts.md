@@ -56,3 +56,9 @@ If you are missing any of the following Airtables message the team and we can ge
 
 - [Cohort Calendar By Topic](https://airtable.com/tbl30CW9EPobvMXRw/viw9IVtTBo9jxE9yd)
 - [C16 Classroom Support](https://airtable.com/tblJ44pwutYNR9ICN/viwwmPEFvyRF39JiT?blocks=hide)
+
+## Lastpass
+
+Ada uses Lastpass to store organization passwords and account information.  The Ed team maintains a series of passwords including for the Zoom accounts.
+
+Please Download the [Lastpass](https://www.lastpass.com) extension and open an invite in your GMail to create a lastpass account.  If you do not receive one, see Bert at Executech ([bert.executech@adadevelopersacademy.org](mailto: bert.executech@adadevelopersacademy.org) ) to get one.  If Bert fails to respond [Chris](mailto:chris@adadev.org) or [Lisa](mailto:lisa@adadev.org) should be able to assist. 
